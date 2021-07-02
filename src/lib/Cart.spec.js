@@ -70,7 +70,7 @@ describe('Cart', () => {
     it('should return an object with the total and the list of items', () => {
       cart.add({
         product,
-        quantity: 2,
+        quantity: 5,
       });
 
       cart.add({
@@ -144,7 +144,7 @@ describe('Cart', () => {
     });
   });
 
-  describe('special conditions', () => {
+  describe('Special Conditions', () => {
     it('should apply percentage discount when quantity above minimum is passed', () => {
       const condition = {
         percentage: 30,

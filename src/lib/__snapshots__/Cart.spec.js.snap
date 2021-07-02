@@ -8,7 +8,7 @@ Object {
         "price": 35388,
         "title": "Adidas running shoes - men",
       },
-      "quantity": 2,
+      "quantity": 5,
     },
     Object {
       "product": Object {
@@ -18,7 +18,7 @@ Object {
       "quantity": 3,
     },
   ],
-  "total": 196392,
+  "total": 302556,
 }
 `;
 
