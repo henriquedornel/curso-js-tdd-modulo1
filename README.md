@@ -5,11 +5,11 @@ Estudo de TDD em JavaScript, baseado no Módulo 1 do curso "Aprenda a testar Apl
 #
 ## Instalação
 ```bash
-$ npm install
+$ npm i
 ```
 ou
 ```bash
-$ yarn install
+$ yarn
 ```
 
 #
