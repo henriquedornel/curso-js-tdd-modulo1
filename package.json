@@ -1,0 +1,27 @@
+{
+  "name": "1_projeto-1",
+  "version": "1.0.0",
+  "description": "npx create-next-app --example with-styled-components",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll",
+    "test:debug": "ndb jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.14.6",
+    "@babel/preset-env": "^7.14.5",
+    "@types/jest": "^26.0.23",
+    "babel-jest": "^27.0.2",
+    "jest": "^27.0.4",
+    "ndb": "^1.1.5",
+    "prettier": "^2.3.1"
+  },
+  "dependencies": {
+    "dinero.js": "^1.8.1",
+    "lodash": "^4.17.21"
+  }
+}
